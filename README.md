@@ -2,7 +2,7 @@
 
 Bem-vindo(a) ao meu Github! Sou um estudante de Ciência da Computação, estou em um aprendizado contínuo e focado em resolução de problemas. Aqui, compartilho meus projetos, conhecimentos e habilidades.
 
-_Languages_ : [English](https://github.com/Giovanni-LOS/Giovanni-LOS/edit/main/README_en.md) :us: :uk:
+_Languages_ : [English](https://github.com/Giovanni-LOS/Giovanni-LOS/blob/main/README_en.md) :us: :uk:
 ---
 
 ## 📚 Sobre mim  
@@ -26,6 +26,11 @@ _Languages_ : [English](https://github.com/Giovanni-LOS/Giovanni-LOS/edit/main/R
 ### IFB Share [Backend](https://github.com/Giovanni-LOS/ifbshare-back) [Frontend](https://github.com/Giovanni-LOS/ifbshare-front)  
 **Descrição:** Projeto de plataforma para compartilhamento de materiais acadêmicos.  
 **Tecnologias:** [TypeScript, JavaScript, CSS, HTML].  
+
+### [Aplicação Java Desktop para Gestão de Chalés](https://github.com/gabrielcesar-dev/final-project-pc2)
+**Descrição:** Este projeto tem como objetivo a criação de uma aplicação Java Desktop completa para o cadastro de dados das tabelas Cliente, Hospedagem, e Chale.
+**Tecnologias:** [Java].
+
 
 ### [Decifrando Relatórios](https://github.com/Giovanni-LOS/Deciphering-Reports)  
 **Descrição:** Este projeto consiste em um software em linguagem C para a partir de quebra-cabeças criptoaritmético, descriptografa e imprime a resposta em arquivo de texto.  
