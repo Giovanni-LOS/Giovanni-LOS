@@ -29,11 +29,12 @@ _Languages_ : [English](https://github.com/Giovanni-LOS/Giovanni-LOS/blob/main/R
 
 ### [Aplicação Java Desktop para Gestão de Chalés](https://github.com/gabrielcesar-dev/final-project-pc2)
 **Descrição:** Este projeto tem como objetivo a criação de uma aplicação Java Desktop completa para o cadastro de dados das tabelas Cliente, Hospedagem, e Chale.
+
 **Tecnologias:** [Java].
 
 
 ### [Decifrando Relatórios](https://github.com/Giovanni-LOS/Deciphering-Reports)  
-**Descrição:** Este projeto consiste em um software em linguagem C para a partir de quebra-cabeças criptoaritmético, descriptografa e imprime a resposta em arquivo de texto.  
+**Descrição:** Este projeto consiste em um software em linguagem C para a partir de quebra-cabeças criptoaritmético, descriptografa e imprime a resposta em arquivo de texto.
 **Tecnologias:** [C, Makefile].  
 
 ### [Problema da mochila](https://github.com/Giovanni-LOS/problema_mochila)  
