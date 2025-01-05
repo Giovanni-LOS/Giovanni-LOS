@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I am a Computer Science student on a journey of continuous learning, focusing on problem-solving. Here, I share my projects, knowledge, and skills.
 
-_Read this in other languages_ : [Brazilian Portuguese](https://github.com/Giovanni-LOS/Giovanni-LOS/edit/main/README.md) :brazil:
+_Read this in other languages_ : [Brazilian Portuguese](https://github.com/Giovanni-LOS/Giovanni-LOS/blob/main/README.md) :brazil:
 ---
 
 ## 📚 About Me  
@@ -26,6 +26,11 @@ _Read this in other languages_ : [Brazilian Portuguese](https://github.com/Giova
 ### IFB Share [Backend](https://github.com/Giovanni-LOS/ifbshare-back) [Frontend](https://github.com/Giovanni-LOS/ifbshare-front)  
 **Description:** A platform for sharing academic materials.  
 **Technologies:** [TypeScript, JavaScript, CSS, HTML].  
+
+### [Java Desktop Application for Chalet Management](https://github.com/gabrielcesar-dev/final-project-pc2)
+**Description:** This project aims to create a complete Java Desktop application for managing data in the Client, Accommodation, and Chalet tables.
+**Technologies:** [Java].
+
 
 ### [Deciphering Reports](https://github.com/Giovanni-LOS/Deciphering-Reports)  
 **Description:** This project is a C-language software that solves cryptarithmic puzzles, decrypting and printing the answers in a text file.  
