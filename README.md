@@ -1,4 +1,4 @@
-# [Giovanni L. O. S.]  
+# [Giovanni L. O. Silva]  
 
 Bem-vindo(a) ao meu Github! Sou um estudante de Ciência da Computação, estou em um aprendizado contínuo e focado em resolução de problemas. Aqui, compartilho meus projetos, conhecimentos e habilidades.
 
