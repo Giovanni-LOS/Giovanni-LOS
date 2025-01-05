@@ -2,6 +2,7 @@
 
 Welcome to my GitHub! I am a Computer Science student on a journey of continuous learning, focusing on problem-solving. Here, I share my projects, knowledge, and skills.
 
+_Read this in other languages_ : [Brazilian Portuguese](https://github.com/Giovanni-LOS/Giovanni-LOS/edit/main/README.md) :brazil:
 ---
 
 ## 📚 About Me  
