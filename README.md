@@ -5,8 +5,8 @@ Bem-vindo(a) ao meu Github! Sou um estudante de Ciência da Computação, estou 
 ---
 
 ## 📚 Sobre mim  
-- 🎓 Atualmente cursando **Ciência da Computação** no [Instituto Federal de Brasília].  
-- 🌱 Sempre aprendendo: foco atual em fortalecer meus conhecimentos em [Programação competitiva e Web Development].  
+- 🎓 Atualmente cursando **Ciência da Computação** no [Instituto Federal de Brasília](https://www.ifb.edu.br/taguatinga/).  
+- 🌱 Sempre aprendendo: foco atual em fortalecer meus conhecimentos em Programação competitiva e Web Development.  
 - 🤝 Aberto a colaborações e novas ideias.  
 
 ---
@@ -22,7 +22,7 @@ Bem-vindo(a) ao meu Github! Sou um estudante de Ciência da Computação, estou 
 
 ## 📂 Projetos Destacados  
 
-### [IFB Share](https://github.com/Giovanni-LOS/ifbshare-back/https://github.com/Giovanni-LOS/ifbshare-front)  
+### IFB Share [Backend](https://github.com/Giovanni-LOS/ifbshare-back) [Frontend](https://github.com/Giovanni-LOS/ifbshare-front)  
 **Descrição:** Projeto de plataforma para compartilhamento de materiais acadêmicos.  
 **Tecnologias:** [TypeScript, JavaScript, CSS, HTML].  
 
