@@ -1,96 +1,108 @@
-# Olá, eu sou Giovanni Silva! 👋
-
 <div align="center">
-  
-  **Ciência da Computação | Desenvolvimento Web & Dados | Oracle APEX**
 
+# Olá! Eu sou Giovanni Oliveira 👋
 
-  [English Version](https://github.com/Giovanni-LOS/Giovanni-LOS/blob/main/README_en.md) :us: :uk:
+### Ciência da Computação · Engenharia de Software com IA (GenAI & LLMs) · Agentes e Automação
+
+**Concluindo Bacharelado em Ciência da Computação em dezembro de 2026**
 
 </div>
 
+## Sobre mim
+
+Sou estudante de **Ciência da Computação** (conclusão em dezembro de 2026), com experiência prática em desenvolvimento de software, automação de processos, bancos de dados relacionais, projetos de pesquisa e tecnologia educacional.
+
+Atualmente, meu principal foco de atuação e pesquisa é a **Engenharia de Software com IA Agêntica e GenAI**: construo soluções baseadas em **LLMs (Gemini, GPT, Claude)** e utilizo intensivamente ambientes como **OpenAI Codex, Google Antigravity e n8n**, combinando **Prompt Engineering avançado**, orquestração de agentes, subagentes, servidores **MCP (Model Context Protocol)** e *skills* especializadas para acelerar atividades de pesquisa, arquitetura, implementação, testes automatizados, documentação e manutenção de software.
+
+Tenho interesse especial em arquiteturas nas quais agentes interagem diretamente com ferramentas (*tool calling*), terminal, arquivos, APIs, bancos de dados e bases de conhecimento (**RAG**) para executar fluxos de trabalho ponta a ponta — indo além da simples geração de código para entregar produtos, ferramentas internas e automações reais.
+
+Também possuo sólida experiência prática com **Python, C++, SQL, Oracle APEX e Oracle Database** aplicada em ambiente governamental e acadêmico.
+
+## Áreas de interesse e conhecimentos
+
+| Área | Tecnologias, modelos e práticas |
+|---|---|
+| **IA Agêntica & GenAI** | Agentes autônomos, subagentes, LLMs (Gemini, GPT, Claude), Prompt Engineering avançado, *tool calling*, *skills* especializadas |
+| **Orquestração & Vibe Coding** | MCP (*Model Context Protocol*), servidores MCP, LangChain (ReAct), n8n, OpenAI Codex, Google Antigravity, desenvolvimento assistido por IA |
+| **Sistemas de Conhecimento & Dados** | RAG (*Retrieval-Augmented Generation*), embeddings, bases vetoriais, recuperação de informação e análise de dados com IA |
+| **Engenharia de Software** | Arquitetura modular, ADRs, testes automatizados, *lint*, verificação estática de tipos, documentação e manutenção evolutiva |
+| **Automação e Integração** | Construção de workflows, desenvolvimento e consumo de APIs REST, bots conversacionais e integração entre serviços |
+| **Desenvolvimento & Banco de Dados** | Python, C++, SQL, PL/SQL, Oracle APEX, Oracle Database, SQLite |
+
+> As ferramentas e abordagens de IA fazem parte do meu fluxo diário de engenharia. Meu foco está em projetar, orquestrar, integrar e validar esses sistemas com rigor técnico — transformando modelos em soluções de software confiáveis.
+
+## Projetos em destaque
+
+### [GPTibia — Agente Conversacional Multimodal com RAG e Orquestração](https://github.com/Giovanni-LOS/gptibia)
+
+Projeto de Inteligência Artificial Aplicada voltado à construção ponta a ponta de um assistente inteligente baseado em LLMs e orquestração de agentes.
+
+- Assistente conversacional integrado ao Telegram por meio de workflows de automação no **n8n**.
+- Orquestração de agentes utilizando **LangChain** e o padrão **ReAct** para decisão dinâmica e acionamento de ferramentas (*tool calling*).
+- Implementação de pipeline **RAG** com **embeddings da OpenAI** sobre base de conhecimento construída a partir de dados do TibiaWiki.
+- Combinação de recuperação semântica com consultas estruturadas em **SQLite** e integração em tempo real com a **TibiaData API v4**.
+- Análise multimodal com IA para interpretação automática de imagens e capturas de tela enviadas pelos usuários.
+
+### [TibiaBot — Arquitetura Modular de Automação em Python](https://github.com/Giovanni-LOS/bot_tibia)
+
+Projeto de engenharia de software voltado à arquitetura modular, estabilidade operacional, desacoplamento e testabilidade de sistemas de automação.
+
+- Separação estrita de responsabilidades e da lógica de decisão em módulos independentes.
+- Suíte de testes automatizados com *adapters* simulados e validação segura em modo *dry-run*.
+- Registros formais de decisões arquiteturais (**ADRs**) e documentação operacional estruturada.
+- Pipeline de qualidade de código com verificação de tipos, *lint* e formatação automatizada.
+
+### TCC — Avaliação Experimental de Estruturas de Dados para o Algoritmo de Dijkstra
+
+Trabalho de Conclusão de Curso (pesquisa científica e experimental) em Ciência da Computação no Instituto Federal de Brasília (IFB).
+
+- Implementação de alta performance em **C++** e avaliação experimental do algoritmo de caminhos mínimos de Dijkstra com diferentes estruturas de fila de prioridade.
+- Estruturas implementadas e comparadas: *Binary Heap*, *Fibonacci Heap*, *Pairing Heap*, *Radix Heap* e *Quickheap*.
+- Execução de *benchmarks* e análise de dados de desempenho com grafos reais de larga escala da *SuiteSparse Matrix Collection*, confrontando resultados empíricos com limites assintóticos teóricos.
+
+### [Infinite Runner — Projeto de Sistemas Multimídia](https://github.com/LeticiaTorres01/Infinite-Runner)
+
+Projeto colaborativo de desenvolvimento de software multimídia e jogos digitais, aplicando controle de versão em equipe e integração de ativos gráficos e sonoros.
+
+## Experiência profissional e acadêmica
+
+**Tribunal de Contas da União (TCU) — Estágio em Desenvolvimento de Software e Automação**
+
+Experiência de aproximadamente dois anos no desenvolvimento, manutenção e evolução de aplicações corporativas e ferramentas internas:
+- Construção e sustentação de sistemas web utilizando **Oracle APEX** e **Oracle Database (SQL / PL/SQL)**.
+- Desenvolvimento de scripts e automações em **Python** para processamento de dados e otimização de rotinas operacionais, economizando horas reais de trabalho manual da equipe.
+- Apoio na concepção, validação e implementação de novas funcionalidades voltadas a necessidades reais de negócio.
+
+**PIBIC — Projeto de Pesquisa EduColab | Instituto Federal de Brasília (IFB)**
+
+Atuação em projeto de iniciação científica focado em sistemas de recomendação educacional e análise de dados para promover colaboração em fóruns do Moodle:
+- Preparação, estruturação e saneamento de bases de dados conversacionais para análise pela ferramenta.
+- Pesquisa técnica sobre arquitetura de integração e APIs do ecossistema Moodle.
+
+**Projeto Profuncionário | Instituto Federal de Brasília (IFB)**
+
+Bolsista em atividades de engenharia e produção de materiais didáticos digitais interativos, utilizando *eXeLearning*, recursos de interatividade web, tecnologias digitais de informação e comunicação (TDICs) e ambientes virtuais no Moodle.
+
+**Monitoria Acadêmica — Algoritmos e Programação de Computadores | IFB**
+
+Monitor no 1º semestre de 2026 (carga horária certificada de 113 horas), auxiliando estudantes na construção de lógica algorítmica, estruturas de código e depuração de programas.
+
+## Atualmente explorando
+
+- Automação do ciclo de vida de engenharia de software por meio de agentes, subagentes e *skills* especializadas.
+- Orquestração avançada de ferramentas, bancos de dados e serviços locais/remotos utilizando **MCP (Model Context Protocol)**.
+- Arquiteturas de **RAG** híbrido, bases de conhecimento e avaliação de pipelines agênticos.
+- Desenvolvimento de aplicações web progressivas (PWA) integradas a APIs de LLMs (Google Gemini) e estudo de geração de código estruturado em **APEXlang** para projetos **Oracle APEX 26.1/26.2**.
+
+## Contato
+
+- **E-mail:** [gi.lucas.br@gmail.com](mailto:gi.lucas.br@gmail.com)
+- **GitHub:** [github.com/Giovanni-LOS](https://github.com/Giovanni-LOS)
+
 ---
-
-## 👨‍💻 Sobre mim
-
-Sou estudante de **Ciência da Computação** no [Instituto Federal de Brasília (IFB)](https://www.ifb.edu.br/) e apaixonado por resolver problemas através da tecnologia.
-
-Atualmente, atuo como **Estagiário de Desenvolvimento** no **Tribunal de Contas da União (TCU)**, onde desenvolvo aplicações Web focadas em manipulação de dados. Estou em uma jornada de especialização em **Business Intelligence** e **Engenharia de Dados**, utilizando minha base sólida em SQL para expandir conhecimentos.
-
-* 🏢 **Experiência Atual:** Desenvolvimento Web com Oracle APEX e SQL no TCU.
-* 🌱 **Foco de Estudos:** Estrutura de Dados, Otimização de Algoritmos e Business Intelligence.
-* 🎯 **Objetivo:** Criar soluções que integrem desenvolvimento robusto com visualização de dados inteligente.
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Linguagens
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### 🗄️ Banco de Dados & BI
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Expert-blue?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🌐 Web & Ferramentas
-![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-Low%20Code-orange?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 🌍 Idiomas
-
-* 🇧🇷 **Português:** Nativo
-* 🇺🇸 **Inglês:** Leitura e Escuta Avançadas (Documentação Técnica & Reuniões) | Fala Intermediária
-* 🇯🇵 **Japonês:** Básico
-
----
-
-## 📂 Projetos em Destaque
-
-### 📚 [IFB Share](https://github.com/Giovanni-LOS/ifbshare-back)
-**Plataforma de Compartilhamento Acadêmico**
-* **Descrição:** Sistema Fullstack para facilitar a troca de materiais de estudo entre alunos. Implementa upload de arquivos e categorização de conteúdos.
-* **Tech:** TypeScript, JavaScript, HTML, CSS.
-* **Links:** [Backend](https://github.com/Giovanni-LOS/ifbshare-back) | [Frontend](https://github.com/Giovanni-LOS/ifbshare-front)
-
-### 🏡 [Gestão de Chalés](https://github.com/gabrielcesar-dev/final-project-pc2)
-**Sistema Desktop de Gerenciamento**
-* **Descrição:** Aplicação Java Desktop completa para administração de hospedagens. Gerencia o ciclo de vida de clientes, reservas e unidades de chalé com persistência de dados.
-* **Tech:** Java, Swing, POO.
-
-### 🔐 [Decifrando Relatórios](https://github.com/Giovanni-LOS/Deciphering-Reports)
-**Algoritmo de Criptoaritmética**
-* **Descrição:** Software desenvolvido em C para solucionar quebra-cabeças criptoaritméticos. O sistema lê arquivos criptografados, processa a lógica matemática oculta e gera relatórios descriptografados.
-* **Tech:** C, Makefile, Manipulação de Arquivos.
-
-### 🎒 [Problema da Mochila (Knapsack Problem)](https://github.com/Giovanni-LOS/problema_mochila)
-**Análise de Algoritmos**
-* **Descrição:** Estudo comparativo de performance e eficiência entre algoritmos Gulosos (Greedy) e Programação Dinâmica para a resolução do clássico problema de otimização combinatória.
-* **Tech:** C, Shell Script, Análise de Complexidade.
-
----
-
-## 📫 Contato
 
 <div align="center">
-  <a href="mailto:gi.lucas.br@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gi.lucas.br%40gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/giovanni-l-o-silva/">
-    <img src="https://img.shields.io/badge/LinkedIn-Giovanni%20Silva-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
-</div>
 
-<br>
-<div align="center">
-  <small><i>Obrigado por visitar meu perfil!</i></small>
+*Focado em construir software útil, explorar novas fronteiras da engenharia com IA e transformar automações complexas em produtos e fluxos de trabalho confiáveis.*
+
 </div>
